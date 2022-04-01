@@ -47,7 +47,7 @@ A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](h
   </a>
 </div>
 
-#### [Launch Web App](https//play.dashtronaut.app)  🌍
+#### [Launch Web App](https://play.dashtronaut.app)  🌍
 
 #### Download Links
 
