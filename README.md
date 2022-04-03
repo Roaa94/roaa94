@@ -17,7 +17,7 @@ I'm a [Flutter](https://flutter.dev) Developer & Co-Founder at [MultiCaret](http
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter 💙
 * 📫 How to reach me:
-  * Email: roaa@multicaret.com
+  * Email: roaa94khaddam@gmail.com
   * [Twitter](https://twitter.com/roaakdm)
 
 * 😄 Pronouns: She/Her 👩🏻‍💻
