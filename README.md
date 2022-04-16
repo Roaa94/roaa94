@@ -158,9 +158,17 @@ Integrating a REST API and adding offline support to a Flutter application by ca
   
 ---
 
-### [UPCOMING] Flutter Festival Turkey - Live-coding a Theme & Primary Color Switcher
+### Flutter Festival Turkey - Live-coding a Theme & Primary Color Switcher
 
 🗓 April 16th, 2022 
+
+🎥 [Talk Video](https://www.youtube.com/watch?v=M5sm3EsUmu4t=3503s)
+
+I live coded a theme & primary color switcher with provider for state management and integrated local storage using Hive and the service locator pattern to persist user selection. Also talked a bit about testing and you can find more widget & unit tests in the repo.
+
+<a href="https://github.com/roaa94/flutter-theme-switcher">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-theme-switcher&theme=dracula" alt="Flutter Theme Switcher Repo" />
+</a>
 
 ---
 
