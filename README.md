@@ -45,15 +45,7 @@ A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](h
 
 [You can read the full development story & inspiration here](https://dashtronaut.app/tutorials/introduction)
 
-#### Source code:
-
-<div>
-  <a href="https://github.com/roaa94/flutter-puzzle-hack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-puzzle-hack&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
-  </a>
-</div>
-
-#### [Launch Web App](https://play.dashtronaut.app)  🌍
+### [Launch Web App](https://play.dashtronaut.app)  🌍
 
 #### Download Links
 
@@ -68,6 +60,14 @@ A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](h
 <a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
 </a>
+
+#### Source code:
+
+<div>
+  <a href="https://github.com/roaa94/flutter-puzzle-hack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-puzzle-hack&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
+  </a>
+</div>
 
 ---
 
