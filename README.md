@@ -37,7 +37,11 @@ I'm a [Flutter](https://flutter.dev) Developer & Co-Founder at [MultiCaret](http
 
 🎥 [Watch Demo Video](https://www.youtube.com/watch?v=6SrPcV8I1II)
 
+<img width="600px" src="https://user-images.githubusercontent.com/50345358/164895579-98d1d022-d185-4eb1-93d4-019ffde4c599.png" alt="Dashtronaut Slide Puzzle winning in the Flutter Puzzle Hack for Best educational content" />
+
 A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](https://devpost.com/software/dashtronaut). It's set out in space with Dashtronaut, Dash the Astronaut, floating in space and interacting with the user.
+
+[The submission won a prize for Best Educational Content!](https://devpost.com/software/dashtronaut) 🎉 🎊
 
 [You can read the full development story & inspiration here](https://dashtronaut.app/tutorials/introduction)
 
