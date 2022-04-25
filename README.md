@@ -180,6 +180,10 @@ I live coded a theme & primary color switcher with provider for state management
 
 Aside from regularely sharing Flutter tips on [Twitter](https://twitter.com/roaakdm), I usually publish articles on [Medium](https://medium.com/@roaakdm) whenever I have the chance (and the ideas):
   
+* [Flutter Animations Comprehensive Guide](https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d)
+
+Everything you need to know about Flutter animations in great detail and with multiple examples. By the end of this article you’ll be able to add animations to your Flutter app with a wide range of complexity. And you’ll know which of the various approaches available in Flutter is best suited for your animation goals.
+
 * [Flutter ScrollPhysics Variations & Use Cases](https://medium.com/@roaakdm/flutter-scrollphysics-variations-use-cases-da87528cc6c1)
   
 The ‘physics’ widget param is found in all scrollable widgets (SingleChildScrollView, CustomScrollView, NestedScrollView, ListView, GridView, TabBarView, ListWheelScrollView …etc) In this article, I will go over the variation of ScrollPhysics that this param can take and what that variation does.
