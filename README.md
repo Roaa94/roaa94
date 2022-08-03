@@ -5,7 +5,7 @@
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
 
-I'm a [Flutter](https://flutter.dev) Developer & Co-Founder at [MultiCaret](https://github.com/multicaret). Building production-level Flutter mobile applications in multiple industries including Food & grocery delivery, medical & health care, tourism, e-commerce, social media, and telecommunication. Enjoying every Fluttering minute 💙!
+I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter mobile applications in multiple industries including Food & grocery delivery, medical & health care, tourism, e-commerce, social media, and telecommunication. Enjoying every Fluttering minute 💙!
 
 
 * 🔭 I’m currently working on 
