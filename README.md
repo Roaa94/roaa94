@@ -107,7 +107,7 @@ It was created for the [Flutter Festival London session](#flutter-talks).
 	  🎥 <a href="https://youtu.be/Jwh-2fMdpek?t=5344">Talk Video</a>
 		</td>
       <td>
-	    Deep dive into Dashtroaut, my slide puzzle game submission to the [Flutter Puzzle Hack challenge](https://devpost.com/software/dashtronaut). I talked about:
+	    Deep dive into Dashtronaut, my slide puzzle game submission to the <a href="https://devpost.com/software/dashtronaut">Flutter Puzzle Hack challenge</a>. I talked about:
 	      <ul>
 		      <li>
 		      App architecture & Folder structure
