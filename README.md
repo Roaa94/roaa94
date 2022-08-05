@@ -97,82 +97,126 @@ It was created for the [Flutter Festival London session](#flutter-talks).
 
 ## Flutter Talks
 
-### Flutter Festival Silicon Valley - Dashtronaut App Showcase
-
-🗓 March 23rd, 2022 
-
-🎥 [Talk Video](https://youtu.be/Jwh-2fMdpek?t=5344)
-  
-Deep dive into Dashtroaut, my slide puzzle game submission to the [Flutter Puzzle Hack challenge](https://devpost.com/software/dashtronaut). I talked about:
-* App architecture & Folder structure
-* Animated CustomPainter
-* Responsiveness & Cross platform capabilities
-* Slide Puzzle logic
-* Animations with built-in Flutter widgets & 3rd party tool (Rive)
-* Haptic Feedback
-* Hive for local storage
-* Performance Optimizations - Skia Shader (SkSL) warm up & Pre-caching images
-
----
-
-### Flutter Festival Valsad & Surat - Flutter Animations
-
-🗓 March 26th, 2022 
-
-🎥 [Talk Video](https://youtu.be/0k1ocwlfa2c?t=491)
-
-Comprehensive guide of Flutter animations with multiple examples & use cases.
-* Quickest & Easiest approach: Implicit animations (no AnimationController)
-    1. Built-in animation widgets (AnimatedContainer, AnimatedOpacity, ..etc)
-    2. Custom animation widgets with TweenAnimationBuilder 
-* Explicit animations: using AnimationController
-    1. Built-in widgets that use AnimationController (Transition widgets)
-    2. Advanced custom animation widgets that use an AnimationController (AnimatedWidget & AnimatedBuilder)
-* Choosing the right animation approach depending on your goal
-
-Code in the talk can be found in this repository:
-
-<a href="https://github.com/roaa94/flutter-festival-session">
+<table>
+  <tbody>
+    <tr>
+	    <td><strong>Flutter Festival Silicon Valley - Dashtronaut App Showcase</strong>
+    	  	</br></br>
+		🗓 March 23rd, 2022
+	</br></br>
+	  🎥 <a href="https://youtu.be/Jwh-2fMdpek?t=5344">Talk Video</a>
+		</td>
+      <td>
+	    Deep dive into Dashtroaut, my slide puzzle game submission to the [Flutter Puzzle Hack challenge](https://devpost.com/software/dashtronaut). I talked about:
+	      <ul>
+		      <li>
+		      App architecture & Folder structure
+		      </li>
+		      <li>
+			Animated CustomPainter
+		      </li>
+		      <li>
+		      Responsiveness & Cross platform capabilities
+		      </li>
+		      <li>
+		      Slide Puzzle logic
+		      </li>
+		      <li>
+		      Animations with built-in Flutter widgets & 3rd party tool (Rive)
+		      </li>
+		      <li>
+		      Haptic Feedback
+		      </li>
+		      <li>
+		      Hive for local storage
+		      </li>
+		      <li>
+		      Performance Optimizations - Skia Shader (SkSL) warm up & Pre-caching images
+		      </li>
+	      </ul>
+	    </td>
+    </tr>
+    <tr>
+	<td>
+		<strong>Flutter Festival Valsad & Surat - Flutter Animations</strong>
+				</br></br>
+				🗓 March 26th, 2022 
+			</br></br>
+				  🎥 <a href="https://youtu.be/0k1ocwlfa2c?t=491">Talk Video</a>
+	</td>
+	<td>
+	Comprehensive guide of Flutter animations with multiple examples & use cases.
+<ul>
+	<li>
+	Quickest & Easiest approach: Implicit animations (no AnimationController)
+		<ol>
+<li>Built-in animation widgets (AnimatedContainer, AnimatedOpacity, ..etc)</li>
+	<li>Custom animation widgets with TweenAnimationBuilder</li>
+		</ol>
+			</li>
+	<li>
+Explicit animations: using AnimationController
+		<ol>
+			<li>Built-in widgets that use AnimationController (Transition widgets)</li>
+<li>Advanced custom animation widgets that use an AnimationController (AnimatedWidget & AnimatedBuilder)</li>
+		</ol>
+	</li>
+	<li>Choosing the right animation approach depending on your goal</li>
+	</ul>
+	Code in the talk can be found in this repository:
+					</br>
+					<a href="https://github.com/roaa94/flutter-festival-session">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-festival-session&theme=dracula" alt="Flutter Festival Session - Flutter Animations" />
 </a>
-
----
-
-### Flutter Festival Saudi Arabia - Flutter Animations [Arabic]
-
-🗓 Feb 19th, 2022 
-
-🎥 [Talk Video](https://www.youtube.com/watch?v=mntW9gU46OM&t=5979s)
-
-Same above talk but in Arabic. Same code repo as well 👆🏼.
-
----
-  
-### Flutter Festival London - Flutter App REST API Integration with Caching
-
-🗓 March 27th, 2022 
-
-🎥 [Talk Video](https://youtu.be/h7Hjtj-iw_c?t=21352)
-
-Integrating a REST API and adding offline support to a Flutter application by caching API requests. Example app provided was a Flutter articles directory using the Dev.to API. Service locator & repository design patterns were used. [This is also an open source project](#flutter-articles)👆🏼
-
-<a href="https://github.com/roaa94/flutter_articles">
+	</td>
+	</tr>
+	<tr>
+		<td>
+		<strong>Flutter Festival Saudi Arabia - Flutter Animations [Arabic]</strong>
+				</br></br>
+				🗓 Feb 19th, 2022 
+			</br></br>
+				  🎥 <a href="https://www.youtube.com/watch?v=mntW9gU46OM&t=5979s">Talk Video</a>
+	</td>
+	<td>
+	Same above talk but in Arabic. Same code repo as well 👆🏼.
+	</td>
+	</tr>
+	<tr>
+		<td>
+		<strong>Flutter Festival London - Flutter App REST API Integration with Caching</strong>
+				</br></br>
+				🗓 March 27th, 2022 
+			</br></br>
+				  🎥 <a href="https://youtu.be/h7Hjtj-iw_c?t=21352">Talk Video</a>
+	</td>
+	<td>
+	Integrating a REST API and adding offline support to a Flutter application by caching API requests. Example app provided was a Flutter articles directory using the Dev.to API. Service locator & repository design patterns were used. 
+	</br>	</br>
+	<a href="https://github.com/roaa94/flutter_articles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_articles&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
 </a>
-  
----
-
-### Flutter Festival Turkey - Live-coding a Theme & Primary Color Switcher
-
-🗓 April 16th, 2022 
-
-🎥 [Talk Video](https://www.youtube.com/watch?v=M5sm3EsUmu4t=3503s)
-
-I live coded a theme & primary color switcher with provider for state management and integrated local storage using Hive and the service locator pattern to persist user selection. Also talked a bit about testing and you can find more widget & unit tests in the repo.
-
+	</td>
+	</tr>
+	<tr>
+		<td>
+		<strong>Flutter Festival Turkey - Live-coding a Theme & Primary Color Switcher</strong>
+				</br></br>
+				🗓 April 16th, 2022 
+			</br></br>
+				  🎥 <a href="https://www.youtube.com/watch?v=M5sm3EsUmu4t=3503s">Talk Video</a>
+	</td>
+	<td>
+	I live coded a theme & primary color switcher with provider for state management and integrated local storage using Hive and the service locator pattern to persist user selection. Also talked a bit about testing and you can find more widget & unit tests in the repo.
+		</br>	</br>
 <a href="https://github.com/roaa94/flutter-theme-switcher">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-theme-switcher&theme=dracula" alt="Flutter Theme Switcher Repo" />
 </a>
+</td>
+	</tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -182,11 +226,11 @@ Aside from regularely sharing Flutter tips on [Twitter](https://twitter.com/roaa
   
 | **Title**                                                                                                                                                                                                              | **Description**                                                                                                                                                                                                                                                                                                                 | **Type** | **Publish Date** |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------|
-| #### [Flutter Animations Comprehensive Guide](https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d)                                                                                     | Everything you need to know about Flutter animations in great detail and with multiple examples. By the end of this article you’ll be able to add animations to your Flutter app with a wide range of complexity. And you’ll know which of the various approaches available in Flutter is best suited for your animation goals. | 📄 Article  | 🗓 Apr 25, 2022     |
-| [Reducing Shader Compilation Jank On Mobile By Caching Warmed Up SkSL](https://dashtronaut.app/tutorials/performance/)                                                                                                 | Improving the performance of your application is always important. And in the case of this slide puzzle game app, there were lots of animations and graphics, so it was vital that some work and effort be directed into making sure the performance of the app was at its best.                                                | 📄 Article  | 🗓 Apr 1, 2022      |
-| [Dashtronaut App Architecture and Folder Structure](https://dashtronaut.app/tutorials/app-architecture)                                                                                                                | Details about the code, app architecture & folder structure of the slide puzzle game created for the Flutter Puzzle Hack Challenge                                                                                                                                                                                              | 📄 Article  | 🗓 Mar 20, 2022     |
-| [Stars animation using CustomPainter](https://dashtronaut.app/tutorials/background-stars/)                                                                                                                             | Learn how to create animated stars using Flutter's `CustomPainter` and animations in this first tutorial from the Dashtronaut slide puzzle game                                                                                                                                                                                 | 📄 Article  | 🗓 Mar 14, 2022     |
-| [Flutter ScrollPhysics Variations & Use Cases](https://medium.com/@roaakdm/flutter-scrollphysics-variations-use-cases-da87528cc6c1)                                                                                    | The ‘physics’ widget param is found in all scrollable widgets (SingleChildScrollView, CustomScrollView, NestedScrollView, ListView, GridView, TabBarView, ListWheelScrollView …etc) In this article, I will go over the variation of ScrollPhysics that this param can take and what that variation does.                       | 📄 Article  | 🗓 Jan 29, 2022     |
-| [Create a Theme and Primary Color Switcher For Your Flutter App Using Provider](https://medium.com/flutter-community/create-a-theme-and-primary-color-switcher-for-your-flutter-app-using-provider-fd334dd7d761)       | Learn how to create a functional theme switcher with the ability to change the primary color of your app using Provider. You will also learn how to change the primary color swatch and get MaterialColor from Color.                                                                                                           | 📄 Article  | 🗓 Dec 20, 2021     |
-| [Flutter Image Uploader With App Permissions and Compression Using GetIt Services](https://medium.com/flutter-community/flutter-image-uploader-with-app-permissions-and-compression-using-getit-services-59ffea13f913) | Allow image upload in your Flutter app with one line of code in your widget while handling everything from camera & gallery permissions to image compression under the hood with GetIt and the service locator pattern.                                                                                                         | 📄 Article  | 🗓 Dec 12, 2021     |
+| [**Flutter Animations Comprehensive Guide**](https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d)                                                                                     | Everything you need to know about Flutter animations in great detail and with multiple examples. By the end of this article you’ll be able to add animations to your Flutter app with a wide range of complexity. And you’ll know which of the various approaches available in Flutter is best suited for your animation goals. | 📄 Article  | 🗓 Apr 25, 2022     |
+| [**Reducing Shader Compilation Jank On Mobile By Caching Warmed Up SkSL**](https://dashtronaut.app/tutorials/performance/)                                                                                                 | Improving the performance of your application is always important. And in the case of this slide puzzle game app, there were lots of animations and graphics, so it was vital that some work and effort be directed into making sure the performance of the app was at its best.                                                | 📄 Article  | 🗓 Apr 1, 2022      |
+| [**Dashtronaut App Architecture and Folder Structure**](https://dashtronaut.app/tutorials/app-architecture)                                                                                                                | Details about the code, app architecture & folder structure of the slide puzzle game created for the Flutter Puzzle Hack Challenge                                                                                                                                                                                              | 📄 Article  | 🗓 Mar 20, 2022     |
+| [**Stars animation using CustomPainter**](https://dashtronaut.app/tutorials/background-stars/)                                                                                                                             | Learn how to create animated stars using Flutter's `CustomPainter` and animations in this first tutorial from the Dashtronaut slide puzzle game                                                                                                                                                                                 | 📄 Article  | 🗓 Mar 14, 2022     |
+| [**Flutter ScrollPhysics Variations & Use Cases**](https://medium.com/@roaakdm/flutter-scrollphysics-variations-use-cases-da87528cc6c1)                                                                                    | The ‘physics’ widget param is found in all scrollable widgets (SingleChildScrollView, CustomScrollView, NestedScrollView, ListView, GridView, TabBarView, ListWheelScrollView …etc) In this article, I will go over the variation of ScrollPhysics that this param can take and what that variation does.                       | 📄 Article  | 🗓 Jan 29, 2022     |
+| [**Create a Theme and Primary Color Switcher For Your Flutter App Using Provider**](https://medium.com/flutter-community/create-a-theme-and-primary-color-switcher-for-your-flutter-app-using-provider-fd334dd7d761)       | Learn how to create a functional theme switcher with the ability to change the primary color of your app using Provider. You will also learn how to change the primary color swatch and get MaterialColor from Color.                                                                                                           | 📄 Article  | 🗓 Dec 20, 2021     |
+| [**Flutter Image Uploader With App Permissions and Compression Using GetIt Services**](https://medium.com/flutter-community/flutter-image-uploader-with-app-permissions-and-compression-using-getit-services-59ffea13f913) | Allow image upload in your Flutter app with one line of code in your widget while handling everything from camera & gallery permissions to image compression under the hood with GetIt and the service locator pattern.                                                                                                         | 📄 Article  | 🗓 Dec 12, 2021     |
 
