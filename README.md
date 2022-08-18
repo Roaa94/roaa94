@@ -75,6 +75,32 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </div>
 		</td>
 	</tr>
+	  <tr>
+	  <td>
+		  <h3>Movies App</h3>
+		  <p>A Flutter app that uses the <a href="https://www.themoviedb.org/">"The Movie DB"</a> API to fetch popular people and their info (their movies, images, ..etc)</p>
+		  <p>
+			  The goal of this project is to be a full app example for using <a href="https://riverpod.dev/">Riverpod</a> as a comprehensive solution for state management, caching, and other capabilities and implementing clean architecture with full test coverage with unit and widget tests. You can read detailed information in the <a href="https://github.com/roaa94/movies_app">README</a>.
+<p>
+🌍 <a href="https://www.themoviedb.org/">The Movie DB</a> API
+<br />
+📦 Caching
+<br />
+📃 Infinite-scroll/Pagination
+<br />
+🧪 Unit & widget tests! (100% coverage! 🚀)
+</p>
+		  <p>This app is also available as a 3rd party example in the <a href="https://riverpod.dev/docs/getting_started">official Riverpod Docs</a></p>
+		  </p>
+		  </td>
+	  <td>
+		  <div>
+  <a href="https://github.com/roaa94/movies_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=movies_app&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
+  </a>
+</div>
+		  </td>
+	  </tr>
 	<tr>
 	<td>
 	<h3>Flutter Tutorials App</h3>
