@@ -33,22 +33,29 @@ I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter
 
 ## Open Source Flutter Projects
 
-### Dashtronaut - Slide Puzzle Game
-
-🎥 [Watch Demo Video](https://www.youtube.com/watch?v=6SrPcV8I1II)
-
+<table>
+  <tbody>
+  <tr>
+  <th>
+  Project
+  </th>
+  <th width="35%">
+Links
+</th>
+  </tr>
+	<tr>
+		<td>
 <img width="600px" src="https://user-images.githubusercontent.com/50345358/164896321-4e51d31e-1040-4e89-a7d7-d18ec61a6fff.png" alt="Dashtronaut Slide Puzzle winning in the Flutter Puzzle Hack for Best educational content" />
-
-A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](https://devpost.com/software/dashtronaut). It's set out in space with Dashtronaut, Dash the Astronaut, floating in space and interacting with the user.
-
-[The submission won a prize for Best Educational Content!](https://devpost.com/software/dashtronaut) 🎉 🎊
-
-[You can read the full development story & inspiration here](https://dashtronaut.app/tutorials/introduction)
-
-### [Launch Web App](https://play.dashtronaut.app)  🌍
-
-#### Download Links
-
+<h3>Dashtronaut - Slide Puzzle Game</h3>
+<p>🎥 <a href="https://www.youtube.com/watch?v=6SrPcV8I1II">Watch Demo Video</a></p>
+<p>
+A slide puzzle game built with Flutter for the <a href="https://devpost.com/software/dashtronaut">Flutter Puzzle Hack Challenge</a>. It's set out in space with Dashtronaut, Dash the Astronaut, floating in space and interacting with the user.
+</p>
+<p>🎉 🎊 <a href="https://devpost.com/software/dashtronaut">The submission won a prize for Best Educational Content!</a></p>
+<p>📃 <a href="https://dashtronaut.app/tutorials/introduction">You can read the full development story & inspiration here</a></p>
+		</td>
+		<td>
+		<p>🌍 <a href="https://play.dashtronaut.app">Launch Web App</a></p>
 <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
 </a>
@@ -60,40 +67,31 @@ A slide puzzle game built with Flutter for the [Flutter Puzzle Hack Challenge](h
 <a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
 </a>
-
-#### Source code:
-
+<h4>Source code</h4>
 <div>
   <a href="https://github.com/roaa94/flutter-puzzle-hack">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-puzzle-hack&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
   </a>
 </div>
-
----
-
-### Flutter Tutorials App
-
-A single place for most of the [tutorials](#flutter-tutorials) and [tweets/threads]() I share
-
-<div>
+		</td>
+	</tr>
+	<tr>
+	<td>
+	<h3>Flutter Tutorials App</h3>
+	<p>A single place for most of the <a href="#flutter-tutorials">tutorials</a> and <a href="https://twitter.com/roaakdm">tweets/threads</a> I share</p>
+	</td>
+	<td>
+	<div>
   <a href="https://github.com/roaa94/flutter-tutorials">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-tutorials&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
   </a>
 </div>
+	</td>
+	</tr>
+  </tbody>
+</table>
 
 ---
-
-### Flutter Articles App
-
-A Flutter Articles directory application using the [Dev.to](https://developers.forem.com/api) API. This app implements design patterns like the service locator and repository patterns to integrate with a REST API and has offline support by caching API requests.
-
-It was created for the [Flutter Festival London session](#flutter-talks).
-
-<div>
-  <a href="https://github.com/roaa94/flutter_articles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_articles&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
-  </a>
-</div>
 
 ## Flutter Talks
 
