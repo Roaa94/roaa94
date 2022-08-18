@@ -9,7 +9,7 @@ I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter
 
 
 * 🔭 I’m currently working on 
-  - Client Flutter mobile apps
+  - [Client Flutter mobile apps](#client-projects-and-apps-on-the-stores)
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
@@ -118,6 +118,101 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </table>
 
 ---
+
+## Client Projects And Apps on The Stores
+
+
+<table>
+	<tbody width="100%">
+	<tr>
+		<th>Project</th>	
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td>
+			<h3>Manarati</h3>
+			<p>Ad-free Muslim prayer times app built with Flutter. I worked on this app as a Flutter Developer Team Lead at <a href="https://multicaret.com">Multicaret</a></p>
+			<p>🗓 March 2022 - June 2022 (~4 months)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.multicaret.manarati.app">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Manarati on Google Play" />
+</a>
+			</div>
+			<div>
+<a href="https://apps.apple.com/app/manarati-prayer-times-no-ads/id1617510727">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Manarati on iOS App Store" />
+</a>
+			</div>
+			<div>
+🌍 <a href="https://manarati.app/en">Website</a>
+			</div>
+		</td>
+	</tr>
+		<tr>
+			<td>
+				<h3>FSN - Future Syrian Network</h3>
+				<p>Telecommunication app built with Flutter. I worked on this app as a Developer Team Lead at <a href="https://multicaret.com">Multicaret</a></p>
+			<p>🗓 March 2022 - May 2022 (~3 months)</p>
+			</td>
+			<td>
+							<div>
+				<a href="https://play.google.com/store/apps/details?id=com.fsntelecom.app&gl=TR">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="FSN on Google Play" />
+</a>
+			</div>
+			<div>
+🌍 <a href="https://fsntelecom.com/en">Website</a>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h3>Klinika</h3>
+				<p>Medical app built with Flutter. I worked on this app as a Mobile Developer Team Lead at <a href="https://multicaret.com">Multicaret</a></p>
+			<p>🗓 May 2021 - February 2022 (~1 year)</p>
+			</td>
+			<td>
+							<div>
+				<a href="https://play.google.com/store/apps/details?id=com.klinika.app.patient">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Klinika on Google Play" />
+</a>
+			</div>
+							<div>
+<a href="https://apps.apple.com/sa/app/klinika/id1601835106">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Klinika on iOS App Store" />
+</a>
+			</div>
+			<div>
+🌍 <a href="https://klinikatech.com/en">Website</a>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h3>TipTop</h3>
+				<p>Grocery shopping and food delivery app built with Flutter. I worked on this app as a Mobile Developer Team Lead at <a href="https://multicaret.com">Multicaret</a></p>
+			<p>🗓 March 2021 - July 2021 (~7 months)</p>
+			</td>
+			<td>
+							<div>
+				<a href="https://play.google.com/store/apps/details?id=app.trytiptop.customer">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="TipTop on Google Play" />
+</a>
+			</div>
+							<div>
+<a href="https://apps.apple.com/tr/app/tip-top-%D8%AA%D9%8A%D8%A8-%D8%AA%D9%88%D8%A8/id1538884916">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="TipTop on iOS App Store" />
+</a>
+			</div>
+			<div>
+🌍 <a href="https://trytiptop.app/en">Website</a>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Flutter Talks
 
