@@ -9,11 +9,11 @@ I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter
 
 
 * 🔭 I’m currently working on 
-  - [Client Flutter mobile apps](#client-projects-and-apps-on-the-stores)
+  - [Client Flutter mobile apps](#client-projects-and-apps-on-the-stores) 👇🏼
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
-  - Lot's of half-finished side projects 👀 (Guilty!)
+  - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter 💙
 * 📫 How to reach me:
