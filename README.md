@@ -19,6 +19,7 @@ I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter
 * 📫 How to reach me:
   * Email: roaa94khaddam@gmail.com
   * [Twitter](https://twitter.com/roaakdm)
+  * [LinkedIn](https://www.linkedin.com/in/roaa-kh/)
 
 * 😄 Pronouns: She/Her 👩🏻‍💻
 * ⚡ Fun fact: I have 2 official names! Roaa & Rüya 
