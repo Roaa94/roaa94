@@ -222,7 +222,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
   <tr>
   <td width="30%">
   <h5>UPCOMING!</h5>
-  <h4>In-Person at Flutter Vikings in Oslo, Norway - Take Your Flutter Animations to The Next Level
+  <h4>In-Person at <a href="https://fluttervikings.com/take-you-flutter-animations-to-the-next-level">Flutter Vikings</a> in Oslo, Norway - Take Your Flutter Animations to The Next Level
   </h4>
 🗓 August 31st, 2022
   </td>
