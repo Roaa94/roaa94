@@ -5,7 +5,7 @@
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
 
-I'm a [Flutter](https://flutter.dev) Developer building production-level Flutter mobile applications in multiple industries including Food & grocery delivery, medical & health care, tourism, e-commerce, social media, and telecommunication. Enjoying every Fluttering minute 💙!
+I'm a Software Engineer building production-level [Flutter](https://flutter.dev) mobile applications in multiple industries including Food & grocery delivery, medical & health care, tourism, e-commerce, social media, and telecommunication. I'm also doing my best to share what I know with articles and talks and enjoying every Fluttering moment 💙!
 
 
 * 🔭 I’m currently working on 
