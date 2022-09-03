@@ -225,7 +225,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
   </h4>
 🗓 August 31st, 2022
 </br></br>
-	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=338">Talk Video</a>
+	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=342">Talk Video</a>
 	  </br>
 	  📑 <a href="https://docs.google.com/presentation/d/1IbV3c8glWU9T5AsYU5Iiwto4vjm1e05_UB1vqRj8Q7g">Slides</a>
 	  </br>
