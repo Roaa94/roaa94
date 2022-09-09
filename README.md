@@ -233,6 +233,12 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
   </td>
   <td>
   Out of the box, Flutter provides you with tools to create truly beautiful animations! And I want to tell you how you can use those tools, as well as the surrounding ecosystem, to take those animations to the next level! I’m not only talking about 3rd party package or frameworks like Rive and Lottie, most importantly, I’m talking about how you can utilize those same out-of-the box tools and features, while making use of the host device & platform with everything they offer and Flutter easily allows you to access, like various touch, tap & scroll gestures, mouse movement, sensor data, ..etc, to create cross-platform, highly interactive, truly next-level animations that make your users go: Wow, can an app do that?
+	</br></br>
+  	Code in the talk can be found in this repository:
+					</br>
+					<a href="https://github.com/roaa94/recipes_ui_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=recipes_ui_app&theme=dracula" alt="Flutter Festival Session - Flutter Animations" />
+</a>
   </td>
   </tr>
     <tr>
