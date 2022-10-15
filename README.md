@@ -235,7 +235,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
     	  	</br></br>
 		🗓 March 23rd, 2022
 	</br></br>
-	  🎥 <a href="https://youtu.be/Jwh-2fMdpek?t=5344">Talk Video</a>
+	  🎥 <a href="https://www.youtube.com/watch?v=cw6PfvI8aRA">Talk Video</a>
 		</td>
       <td>
 	    Deep dive into Dashtronaut, my slide puzzle game submission to the <a href="https://devpost.com/software/dashtronaut">Flutter Puzzle Hack challenge</a>. I talked about:
