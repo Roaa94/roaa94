@@ -102,19 +102,6 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </div>
 		  </td>
 	  </tr>
-	<tr>
-	<td>
-	<h3>Flutter Tutorials App</h3>
-	<p>A single place for most of the <a href="#flutter-tutorials">tutorials</a> and <a href="https://twitter.com/roaakdm">tweets/threads</a> I share</p>
-	</td>
-	<td>
-	<div>
-  <a href="https://github.com/roaa94/flutter-tutorials">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-tutorials&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
-  </a>
-</div>
-	</td>
-	</tr>
   </tbody>
 </table>
 
@@ -228,6 +215,8 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=342">Talk Video</a>
 	  </br>
 	  📑 <a href="https://docs.google.com/presentation/d/1IbV3c8glWU9T5AsYU5Iiwto4vjm1e05_UB1vqRj8Q7g">Slides</a>
+	  	  </br>
+	  📃 <a href="https://medium.com/@roaakdm/c7130939a4c1">Article</a>
 	  </br>
 	  🌍 <a href="https://recipes-ui.roaakdm.com/">Live Demo</a>
   </td>
