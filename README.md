@@ -13,6 +13,7 @@ I'm a Software Engineer building production-level [Flutter](https://flutter.dev)
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
+  - [Animation & UI Challanges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges)
   - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter 💙
@@ -103,6 +104,59 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 		  </td>
 	  </tr>
   </tbody>
+</table>
+
+---
+
+## Animation and UI Challenges
+
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Toolbar</th>	
+			<th>Card Swiper</th>	
+			<th>3D Calculator</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/50345358/202171369-b7e012d7-3a35-403b-a2d7-4213903c5109.gif" alt="Toolbar with Flutter"></img>
+			</td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/50345358/202170645-a8f21ec0-e12c-4538-b3d6-d08b789a179d.gif" alt="Card Swiper with Flutter"></img>
+			</td>
+			<td>
+			<img src="https://user-images.githubusercontent.com/50345358/202169995-15129138-866a-4fb7-b52c-97db0d5d2ca6.gif" alt="3D Calculator with Flutter"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/roaa94/flutter_cool_toolbar">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_toolbar&theme=dracula" alt="Flutter Cool Toolbar" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/flutter_cool_card_swiper">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_card_swiper&theme=dracula" alt="Flutter Cool Card Swiper" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/flutter_3d_calculator">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_3d_calculator&theme=dracula" alt="Flutter 3D Calculator" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🌍 <a href="https://twitter.com/roaakdm/status/1518444457569492992">Tweet</a>
+			</td>
+			<td>
+				🌍 <a href="https://twitter.com/roaakdm/status/1534841353452101632">Tweet</a>
+			</td>
+			<td>
+				🌍 <a href="https://twitter.com/roaakdm/status/1591412231207518208">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ---
