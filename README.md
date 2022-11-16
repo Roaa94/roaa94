@@ -57,7 +57,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 <p>📃 <a href="https://dashtronaut.app/tutorials/introduction">You can read the full development story & inspiration here</a></p>
 		</td>
 		<td>
-		<p>🌍 <a href="https://play.dashtronaut.app">Launch Web App</a></p>
+		<p>🔗 <a href="https://play.dashtronaut.app">Launch Web App</a></p>
 <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
 </a>
@@ -84,7 +84,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 		  <p>
 			  The goal of this project is to be a full app example for using <a href="https://riverpod.dev/">Riverpod</a> as a comprehensive solution for state management, caching, and other capabilities and implementing clean architecture with full test coverage with unit and widget tests. You can read detailed information in the <a href="https://github.com/roaa94/movies_app">README</a>.
 <p>
-🌍 <a href="https://www.themoviedb.org/">The Movie DB</a> API
+🔗 <a href="https://www.themoviedb.org/">The Movie DB</a> API
 <br />
 📦 Caching
 <br />
@@ -147,13 +147,13 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 		</tr>
 		<tr>
 			<td>
-				🌍 <a href="https://twitter.com/roaakdm/status/1518444457569492992">Tweet</a>
+				🔗 <a href="https://twitter.com/roaakdm/status/1518444457569492992">Tweet</a>
 			</td>
 			<td>
-				🌍 <a href="https://twitter.com/roaakdm/status/1534841353452101632">Tweet</a>
+				🔗 <a href="https://twitter.com/roaakdm/status/1534841353452101632">Tweet</a>
 			</td>
 			<td>
-				🌍 <a href="https://twitter.com/roaakdm/status/1591412231207518208">Tweet</a>
+				🔗 <a href="https://twitter.com/roaakdm/status/1591412231207518208">Tweet</a>
 			</td>
 		</tr>
 	</tbody>
@@ -188,7 +188,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </a>
 			</div>
 			<div>
-🌍 <a href="https://manarati.app/en">Website</a>
+🔗 <a href="https://manarati.app/en">Website</a>
 			</div>
 		</td>
 	</tr>
@@ -205,7 +205,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </a>
 			</div>
 			<div>
-🌍 <a href="https://fsntelecom.com/en">Website</a>
+🔗 <a href="https://fsntelecom.com/en">Website</a>
 			</div>
 			</td>
 		</tr>
@@ -227,7 +227,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </a>
 			</div>
 			<div>
-🌍 <a href="https://klinikatech.com/en">Website</a>
+🔗 <a href="https://klinikatech.com/en">Website</a>
 			</div>
 			</td>
 		</tr>
@@ -249,7 +249,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </a>
 			</div>
 			<div>
-🌍 <a href="https://trytiptop.app/en">Website</a>
+🔗 <a href="https://trytiptop.app/en">Website</a>
 			</div>
 			</td>
 		</tr>
@@ -272,7 +272,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 	  	  </br>
 	  📃 <a href="https://medium.com/@roaakdm/c7130939a4c1">Article</a>
 	  </br>
-	  🌍 <a href="https://recipes-ui.roaakdm.com/">Live Demo</a>
+	  🔗 <a href="https://recipes-ui.roaakdm.com/">Live Demo</a>
   </td>
   <td>
   Out of the box, Flutter provides you with tools to create truly beautiful animations! And I want to tell you how you can use those tools, as well as the surrounding ecosystem, to take those animations to the next level! I’m not only talking about 3rd party package or frameworks like Rive and Lottie, most importantly, I’m talking about how you can utilize those same out-of-the box tools and features, while making use of the host device & platform with everything they offer and Flutter easily allows you to access, like various touch, tap & scroll gestures, mouse movement, sensor data, ..etc, to create cross-platform, highly interactive, truly next-level animations that make your users go: Wow, can an app do that?
