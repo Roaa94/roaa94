@@ -5,8 +5,8 @@
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
 
-I am a Software Engineer and Google Developer Expert for Flutter, passionate about animation, content creation, open source, and speaking at tech events.
-Currently, I am a Senior Flutter Developer at [Widgetbook](https://github.com/widgetbook) working on an open source product that aims to make Flutter developer’s life easier and changes the way designers and developers collaborate. 
+Software Engineer and Google Developer Expert for Flutter, passionate about animation, content creation, open source, and speaking at tech events.
+Currently a Senior Flutter Developer at [Widgetbook](https://github.com/widgetbook) working on an open source product that aims to make Flutter developer’s life easier and changes the way designers and developers collaborate. 
 
 I started getting involved with the vibrant Flutter Community in late 2021 by sharing Flutter tips on Twitter. And since then I’ve written multiple articles, participated and won in the Flutter Puzzle Hack challenge, built and contributed to open-source projects, and spoken in online and in-person tech events.
 
