@@ -5,7 +5,10 @@
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
 
-I'm a Software Engineer building production-level [Flutter](https://flutter.dev) mobile applications in multiple industries including Food & grocery delivery, medical & health care, tourism, e-commerce, social media, and telecommunication. I'm also doing my best to share what I know with articles and talks and enjoying every Fluttering moment 💙!
+I am a Software Engineer and Google Developer Expert for Flutter, passionate about animation, content creation, open source, and speaking at tech events.
+Currently, I am a Senior Flutter Developer at [Widgetbook](https://github.com/widgetbook) working on an open source product that aims to make Flutter developer’s life easier and changes the way designers and developers collaborate. 
+
+I started getting involved with the vibrant Flutter Community in late 2021 by sharing Flutter tips on Twitter. And since then I’ve written multiple articles, participated and won in the Flutter Puzzle Hack challenge, built and contributed to open-source projects, and spoken in online and in-person tech events.
 
 
 * 🔭 I’m currently working on 
@@ -13,7 +16,7 @@ I'm a Software Engineer building production-level [Flutter](https://flutter.dev)
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
-  - [Animation & UI Challanges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges)
+  - [Animation & UI Challanges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges) 👇🏼
   - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter 💙
