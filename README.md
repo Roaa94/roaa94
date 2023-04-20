@@ -74,7 +74,7 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 </a>
 <h4>Source code</h4>
 <div>
-  <a href="https://github.com/roaa94/flutter-puzzle-hack">
+  <a href="https://github.com/roaa94/dashtronaut">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-puzzle-hack&theme=dracula" alt="Flutter Puzzle Hack Project Repo" />
   </a>
 </div>
