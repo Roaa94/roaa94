@@ -12,7 +12,6 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 
 
 * 🔭 I’m currently working on 
-  - [Client Flutter mobile apps](#client-projects-and-apps-on-the-stores) 👇🏼
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
