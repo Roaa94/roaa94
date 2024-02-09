@@ -5,17 +5,17 @@
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
 
-Software Engineer and Google Developer Expert for Flutter & Dart, passionate about animation, content creation, open source, and speaking at tech events.
-Currently a Senior Flutter Developer at [Widgetbook](https://github.com/widgetbook) working on an open source product that aims to make Flutter developer’s life easier and changes the way designers and developers collaborate. 
+Software Engineer and Google Developer Expert for Flutter & Dart, passionate about animation, generative art, content creation, open source, and speaking at tech events.
+Currently a Software Engineer at [Widgetbook](https://github.com/widgetbook) working on an open source product that aims to make Flutter developer’s life easier and the Widgetbook Cloud designer-developer collaboration platform.
 
 I started getting involved with the vibrant Flutter Community in late 2021 by sharing Flutter tips on Twitter. And since then I’ve written multiple articles, participated and won in the Flutter Puzzle Hack challenge, built and contributed to open-source projects, and spoken in online and in-person tech events.
 
 
 * 🔭 I’m currently working on 
   - [Open source Flutter projects](#open-source-flutter-projects) 👇🏼
+  - [Animation & UI Challanges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges) 👇🏼
   - [Flutter tutorials](#flutter-tutorials) 👇🏼
   - [Giving talks whenever I find the opportunity to](#flutter-talks) 👇🏼
-  - [Animation & UI Challanges that showcase the great power of Flutter and what you can create with it](#animation-and-ui-challenges) 👇🏼
   - Lots of half-finished side projects 👀 (Guilty!)
 * 🌱 I’m currently learning everything I can find about Flutter 💙, the learning never stops!
 * 💬 Ask me about anything Flutter 💙
@@ -34,6 +34,81 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=roaa94&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Roaa's GitHub Streaks" />
 </div>
+
+## Animation and UI Challenges
+
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Airbnb UI</th>	
+			<th>Gallery With a Shader</th>	
+			<th>Audience Interactive Generative Art</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/Roaa94/roaa94/assets/50345358/c132d764-39b3-41f6-a019-1295059a8490" alt="Flutter Airbnb UI"></img>
+			</td>
+			<td>
+				<img src="https://github.com/Roaa94/roaa94/assets/50345358/4d6950c2-c8a0-4fda-9bba-51b685740fa9" alt="Flutter Interactive Gallery With Shader"></img>
+			</td>
+			<td>
+			<img src="https://github.com/Roaa94/roaa94/assets/50345358/6ca530f5-5d99-4788-a6ab-ee6f9a939d9f" alt="Audience Interactive Generative Art with Flutter and Firebase"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/roaa94/flutter_airbnb_ui">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_airbnb_ui&theme=dracula" alt="Flutter Airbnb UI" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/flutter-world-of-shaders">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-world-of-shaders&theme=dracula" alt="Flutter Interactive Gallery" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/gen_art_canvas">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=gen_art_canvas&theme=dracula" alt="Flutter 3D Calculator" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<th>Toolbar</th>	
+			<th>Card Swiper</th>	
+			<th>3D Calculator</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/50345358/202171369-b7e012d7-3a35-403b-a2d7-4213903c5109.gif" alt="Toolbar with Flutter"></img>
+			</td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/50345358/202170645-a8f21ec0-e12c-4538-b3d6-d08b789a179d.gif" alt="Card Swiper with Flutter"></img>
+			</td>
+			<td>
+			<img src="https://user-images.githubusercontent.com/50345358/202169995-15129138-866a-4fb7-b52c-97db0d5d2ca6.gif" alt="3D Calculator with Flutter"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/roaa94/flutter_cool_toolbar">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_toolbar&theme=dracula" alt="Flutter Cool Toolbar" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/flutter_cool_card_swiper">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_card_swiper&theme=dracula" alt="Flutter Cool Card Swiper" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/roaa94/flutter_3d_calculator">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_3d_calculator&theme=dracula" alt="Flutter 3D Calculator" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+---
 
 ## Open Source Flutter Projects
 
@@ -106,59 +181,6 @@ A slide puzzle game built with Flutter for the <a href="https://devpost.com/soft
 		  </td>
 	  </tr>
   </tbody>
-</table>
-
----
-
-## Animation and UI Challenges
-
-<table>
-	<tbody width="100%">
-		<tr>
-			<th>Toolbar</th>	
-			<th>Card Swiper</th>	
-			<th>3D Calculator</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://user-images.githubusercontent.com/50345358/202171369-b7e012d7-3a35-403b-a2d7-4213903c5109.gif" alt="Toolbar with Flutter"></img>
-			</td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/50345358/202170645-a8f21ec0-e12c-4538-b3d6-d08b789a179d.gif" alt="Card Swiper with Flutter"></img>
-			</td>
-			<td>
-			<img src="https://user-images.githubusercontent.com/50345358/202169995-15129138-866a-4fb7-b52c-97db0d5d2ca6.gif" alt="3D Calculator with Flutter"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/roaa94/flutter_cool_toolbar">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_toolbar&theme=dracula" alt="Flutter Cool Toolbar" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/roaa94/flutter_cool_card_swiper">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_cool_card_swiper&theme=dracula" alt="Flutter Cool Card Swiper" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/roaa94/flutter_3d_calculator">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter_3d_calculator&theme=dracula" alt="Flutter 3D Calculator" />
-				</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				🔗 <a href="https://twitter.com/roaakdm/status/1518444457569492992">Tweet</a>
-			</td>
-			<td>
-				🔗 <a href="https://twitter.com/roaakdm/status/1534841353452101632">Tweet</a>
-			</td>
-			<td>
-				🔗 <a href="https://twitter.com/roaakdm/status/1591412231207518208">Tweet</a>
-			</td>
-		</tr>
-	</tbody>
 </table>
 
 ---
