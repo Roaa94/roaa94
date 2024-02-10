@@ -201,7 +201,7 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 	</tr>
 	<tr>
 		<td width="70%">
-			<h4>Flutter Fikings 2022 - Take Your Flutter Animations To The Next Level</h4>
+			<h4>Flutter Vikings 2022 - Take Your Flutter Animations To The Next Level</h4>
 			<p>Out of the box, Flutter provides you with tools to create truly beautiful animations! And I want to tell you how you can use those tools, as well as the surrounding ecosystem, to take those animations to the next level! I’m not only talking about 3rd party package or frameworks like Rive and Lottie, most importantly, I’m talking about how you can utilize those same out-of-the box tools and features, while making use of the host device & platform with everything they offer and Flutter easily allows you to access, like various touch, tap & scroll gestures, mouse movement, sensor data, ..etc, to create cross-platform, highly interactive, truly next-level animations that make your users go: Wow, can an app do that?</p>
 	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=342">Talk Video</a>
 	  </br>
