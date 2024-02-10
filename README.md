@@ -68,7 +68,7 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 			</td>
 			<td>
 				<a href="https://github.com/roaa94/gen_art_canvas">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=gen_art_canvas&theme=dracula" alt="Flutter 3D Calculator" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=gen_art_canvas&theme=dracula" alt="Audience Interactive Generative Art with Flutter and Firebase" />
 				</a>
 			</td>
 		</tr>
@@ -117,30 +117,102 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 
 <table>
   <tbody>
-  <tr>
-  <td width="30%">
-  <h4>In-Person at <a href="https://fluttervikings.com/take-you-flutter-animations-to-the-next-level">Flutter Vikings</a> in Oslo, Norway - Take Your Flutter Animations to The Next Level
-  </h4>
-🗓 August 31st, 2022
-</br></br>
-	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=342">Talk Video</a>
-	  </br>
-	  📑 <a href="https://docs.google.com/presentation/d/1IbV3c8glWU9T5AsYU5Iiwto4vjm1e05_UB1vqRj8Q7g">Slides</a>
-	  	  </br>
-	  📃 <a href="https://medium.com/@roaakdm/c7130939a4c1">Article</a>
+	<tr>
+		<td width="70%">
+			<h4>Flutter Firebase Festival 2023 - Real-time Animated Generative Art with Flutter & Firebase</h4>
+			<p>We can all agree that our lives deserve more beauty in them, and what better place to introduce that beauty than the small screen we spend most of our time staring at? Generative art, animations, and interactivity are great ways to do that! With Flutter, you have access to a variety of APIs that enable you to create stunning animated visual experiences, giving user interfaces the chance to be more and more captivating. Join me in this talk as we sneak into the framework’s painting layer and see what the CustomPainter and Canvas API can do, and as we add Firebase’s real-time capabilities into the mix and come out with a fun experience for you, the audience, and your users.</p>
+							<a href="https://github.com/roaa94/gen_art_canvas">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=gen_art_canvas&theme=dracula" alt="Audience Interactive Generative Art with Flutter and Firebase" />
+				</a>
+			<br>
+			🎥 <a href="https://youtu.be/YWZb0KxZpgk?si=2xhzqSu_KzjGY3xX">Talk Video</a>
+				  </br>
+	  🔗 <a href="https://genart-canvas.roaakdm.com//">Live Demo</a>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/422bc13d-286e-498a-94d2-b48edb464da1">
+			<p>📅 Sept 23rd, 2023</p>
+			📍 Prague, Czech Republic
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>Flutter & Friends 2023 - Workshop: Flutter Animations - From Beginner to Advanced</h4>
+			<p>User interfaces without animations are like food without salt, just tasteless. In this workshop, you will learn how to add animations with various complexity to your Flutter UIs. We will start by covering the most basic and subtle animations created with built-in widgets, and make our way up to complex animated user interactions with advanced and customized widgets. Along the way, you will learn best practices, performance optimization, and tips on how to make your development experience and flow smoother. Lastly, just like too much salt can ruin a meal, you don’t want to overcrowd or overcomplicate your UI with too much animations, so we will end up our workshop with some important user experience tips to make sure your app has the most optimal impact on your users.</p>
+		<a href="https://github.com/roaa94/wallet_app_workshop">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=wallet_app_workshop&theme=dracula" alt="Flutter Wallet App - Flutter and Friends Workshop Repo" />
+		</a>	
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/b20135d8-d604-4444-9c64-010853cb75e6">
+			<p>📅 Sept 5th, 2023</p>
+			📍 Stockholm, Sweden
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>FlutterCon 2023 - High-Level Flutter Animations with Low-Level APIs</h4>
+			<p>Not only does Flutter come packed with beautiful and ready to use UI elements, it also exposes to you, the developer, a variety of APIs that enable you to create stunning animated visual experiences. In this talk, with examples combining the magic of Flutter and the power of math, we will sneak into the framework’s rendering and painting layers and see what the CustomPainter and RenderObjects can do, and how you can work with them, and we’ll even go as low as the GPU and explore shaders and the new Flutter shader APIs so you can learn how to brilliantly manipulate every pixel of your UI.</p>
+			🎥 <a href="https://www.droidcon.com/2023/08/07/high-level-flutter-animations-with-low-level-apis/">Talk Video</a>
+				  </br>
+	  🔗 <a href="https://generative-art.roaakdm.com/#/?path=vera-molnar%2Fwidgets%2Fanimatedpolygonsgrid%2Fplayground">Live Demo</a>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/cb1e5b6e-e157-46ae-9107-fe58c37de319">
+			<p>📅 Jul 6th, 2023</p>
+			📍 Berlin, Germany
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>Flutter Heroes 2023 - Accelerate UI Development and Simplify Collaboration Among Designers and Developers with Widgetbook</h4>
+			<p>Building UI components with Flutter is a very smooth process, and with Widgetbook, you can enhance this process further by building your UI components in a dedicated interactive platform in isolation of the app you’re building, making it easy for you to develop your widgets and screens without worrying about the business logic, and test them on different devices, themes, and locales. All of that and more is offered in an open-source package built with Flutter for Flutter developers. Additionally, with the Widgetbook Cloud solution and its various features, you can drastically improve your team’s development process and designer-developer collaboration. And in this talk I want to show you how you and your team can use Widgetbook.</p>
+			🎥 <a href="https://www.youtube.com/watch?v=JTmbS4Lnh38">Talk Video</a>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/1af7b5d7-29ed-47b7-b95c-7e8078576de8">
+			<p>📅 Feb 24th, 2023</p>
+			📍 Turin, Italy
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>DevFest Women 2022 - Deep Dive Into Flutter Animations</h4>
+			<p>Held in the Istanbul Google Office in Turkey and organized by Women Techmakers, I had the pleasure to talk about Flutter Animations at DevFest Women.</p>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/c617fbd3-c32e-4bc4-a5c2-95bd9bc2f9b3">
+			<p>📅 Dec 25th, 2022</p>
+			📍 Istanbul, Turkey
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>DevFest Istanbul 2022 - Take Your Flutter Animations To The Next Level</h4>
+	  🎥 <a href="https://youtu.be/hyZLS1oESv0?si=5GyYlDTzYejKCAD-">Talk Video</a>
 	  </br>
 	  🔗 <a href="https://recipes-ui.roaakdm.com/">Live Demo</a>
-  </td>
-  <td>
-  Out of the box, Flutter provides you with tools to create truly beautiful animations! And I want to tell you how you can use those tools, as well as the surrounding ecosystem, to take those animations to the next level! I’m not only talking about 3rd party package or frameworks like Rive and Lottie, most importantly, I’m talking about how you can utilize those same out-of-the box tools and features, while making use of the host device & platform with everything they offer and Flutter easily allows you to access, like various touch, tap & scroll gestures, mouse movement, sensor data, ..etc, to create cross-platform, highly interactive, truly next-level animations that make your users go: Wow, can an app do that?
-	</br></br>
-  	Code in the talk can be found in this repository:
-					</br>
-					<a href="https://github.com/roaa94/recipes_ui_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=recipes_ui_app&theme=dracula" alt="Flutter Festival Session - Flutter Animations" />
-</a>
-  </td>
-  </tr>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/67e62a7f-4928-40c1-a5d9-b838bb97199b">
+			<p>📅 Dec 11th, 2022</p>
+			📍 Istanbul, Turkey
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
+			<h4>Flutter Fikings 2022 - Take Your Flutter Animations To The Next Level</h4>
+			<p>Out of the box, Flutter provides you with tools to create truly beautiful animations! And I want to tell you how you can use those tools, as well as the surrounding ecosystem, to take those animations to the next level! I’m not only talking about 3rd party package or frameworks like Rive and Lottie, most importantly, I’m talking about how you can utilize those same out-of-the box tools and features, while making use of the host device & platform with everything they offer and Flutter easily allows you to access, like various touch, tap & scroll gestures, mouse movement, sensor data, ..etc, to create cross-platform, highly interactive, truly next-level animations that make your users go: Wow, can an app do that?</p>
+	  🎥 <a href="https://youtu.be/-BcQAWdtq5E?t=342">Talk Video</a>
+	  </br>
+	  🔗 <a href="https://recipes-ui.roaakdm.com/">Live Demo</a>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/Roaa94/roaa94/assets/50345358/9d713071-5aed-4426-a56b-1ae9c031fd7d">
+			<p>📅 August 31st, 2022</p>
+			📍 Oslo, Norway
+		</td>
+	</tr>
   </tbody>
 </table>
 
@@ -148,7 +220,17 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 
 <table>
   <tbody>
-    <tr>
+	<tr>
+	    <td width="80%"><strong>🎙️ On the Flying High With Flutter Podcast: Animations in Flutter</strong></br>
+	<p>I had the pleasure of being on the Flying High With Flutter podcast hosted by Allen where I talked about my development journey and career and more specifically about Flutter animations and the latest animation challenge I did.
+	</p>
+    </td>
+	<td width="20%">
+				<p>🗓 December 7th, 2022</p>
+	  🎥 <a href="https://www.youtube.com/watch?v=2Q-VpUTdT0A">Talk Video</a>
+	</td>
+</tr>
+		<tr>
 	    <td width="80%"><strong>Flutter Festival Silicon Valley - Dashtronaut App Showcase</strong></br>
 	<p>Deep dive into Dashtronaut, my slide puzzle game submission to the <a href="https://devpost.com/software/dashtronaut">Flutter Puzzle Hack challenge</a>. I talked about the app's architectire, responsiveness & cross platform capabilities, animations with built-in Flutter widgets & 3rd party tool, as well as tips on performance optimizations.
 	</p>
@@ -364,7 +446,7 @@ Aside from regularely sharing Flutter tips on [Twitter](https://twitter.com/roaa
         <strong><a href="https://medium.com/@roaakdm/c7130939a4c1">Take Your Flutter Animations to The Next Level — Flutter Vikings Talk</a></strong>
         <p>On August 31st, I did a talk titled “Take Your Flutter Animations to the Next Level” at the amazing Flutter Vikings conference and in this article you’ll find all the links and read a written version of the talk!.</p>
       </td>
-      <td width="20%">🗓 Sep 11, 2022</td>
+      <td width="20%">🗓 Sept 11, 2022</td>
     </tr>
     <tr>
       <td>
