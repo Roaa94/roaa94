@@ -152,7 +152,7 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
 	<tr>
 		<td width="70%">
 			<h4>FlutterCon 2023 - High-Level Flutter Animations with Low-Level APIs</h4>
-			<p>Not only does Flutter come packed with beautiful and ready to use UI elements, it also exposes to you, the developer, a variety of APIs that enable you to create stunning animated visual experiences. In this talk, with examples combining the magic of Flutter and the power of math, we will sneak into the framework’s rendering and painting layers and see what the CustomPainter and RenderObjects can do, and how you can work with them, and we’ll even go as low as the GPU and explore shaders and the new Flutter shader APIs so you can learn how to brilliantly manipulate every pixel of your UI.</p>
+			<p>Not only does Flutter come packed with beautiful and ready to use UI elements, it also exposes to you, the developer, a variety of APIs that enable you to create stunning animated visual experiences. In this talk, with examples combining the magic of Flutter and the power of math, we will sneak into the framework’s rendering and painting layers and see what the CustomPainter and RenderObjects can do, and how you can work with them.</p>
 			🎥 <a href="https://www.droidcon.com/2023/08/07/high-level-flutter-animations-with-low-level-apis/">Talk Video</a>
 				  </br>
 	  🔗 <a href="https://generative-art.roaakdm.com/#/?path=vera-molnar%2Fwidgets%2Fanimatedpolygonsgrid%2Fplayground">Live Demo</a>
