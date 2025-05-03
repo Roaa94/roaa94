@@ -119,6 +119,25 @@ I started getting involved with the vibrant Flutter Community in late 2021 by sh
   <tbody>
 	<tr>
 		<td width="70%">
+			<h4>FlutterCon Berlin 2024 - Code Meets Art: Flutter for Creative Coding</h4>
+			<p>In this talk, I want to show you how you can blur the lines between code and art using Flutter!</p>
+			<p>
+After a quick introduction into what creative coding is and how its visual feedback nature can be a great way to learn how to code, we’ll dive into the technical details on how Flutter can be used for that purpose. Starting from the custom painter and canvas API, and making our way into shaders and 3rd party tools and packages. Additionally, we will explore what it means to use algorithms to create Art and what happens when you bleed that art into user interfaces and experiences. Finally, with its cross platform capabilities and easy control over every pixel, we’ll answer the question of why use Flutter for this purpose in the first place.
+			</p>
+							<a href="https://github.com/Roaa94/flutter-meets-art">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=roaa94&repo=flutter-meets-art&theme=dracula" alt="Audience Interactive Generative Art with Flutter and Firebase" />
+				</a>
+			<br>
+			🎥 <a href="https://www.droidcon.com/2024/09/03/code-meets-art-flutter-for-creative-coding/">Talk Video</a>
+		</td>
+		<td width="30%">
+			<img alt="image" src="https://github.com/user-attachments/assets/5a7fb62c-3bfe-4a84-b0a2-78aa87c65ba4">
+			<p>📅 July 5th, 2024</p>
+			📍 Berlin, Germany
+		</td>
+	</tr>
+	<tr>
+		<td width="70%">
 			<h4>Flutter Firebase Festival 2023 - Real-time Animated Generative Art with Flutter & Firebase</h4>
 			<p>We can all agree that our lives deserve more beauty in them, and what better place to introduce that beauty than the small screen we spend most of our time staring at? Generative art, animations, and interactivity are great ways to do that! With Flutter, you have access to a variety of APIs that enable you to create stunning animated visual experiences, giving user interfaces the chance to be more and more captivating. Join me in this talk as we sneak into the framework’s painting layer and see what the CustomPainter and Canvas API can do, and as we add Firebase’s real-time capabilities into the mix and come out with a fun experience for you, the audience, and your users.</p>
 							<a href="https://github.com/roaa94/gen_art_canvas">
